@@ -122,7 +122,7 @@ const AccuraHome: React.FC = () => {
       <section>
         <footer className={styles.footer}>
           <a href='https://jaidensiu.vercel.app' className={`${styles.footer__link}`}>
-            © Developed by Jaiden Siu 2025
+            © Developed by Jaiden Siu 2026
           </a>
         </footer>
       </section>
